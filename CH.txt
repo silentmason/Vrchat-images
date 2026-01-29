@@ -1,2 +1,4 @@
 Tells Fox
 [1] Local Player
+[1] Remote Player
+Master Master
